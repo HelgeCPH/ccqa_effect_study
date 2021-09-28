@@ -1,0 +1,11 @@
+project,date,no_bugs,bugs_rating,no_code_smells,code_smells_rating,no_vulnerabilities,vulnerabilities_rating
+roller-master,2019-10-30 06:07:41+01:00,255,E,2315,A,173,E
+roller-master,2019-11-17 08:09:21+01:00,255,E,2059,A,173,E
+roller-master,2019-11-17 08:26:27+01:00,255,E,2059,A,173,E
+roller-master,2019-12-19 12:46:39+01:00,248,E,2027,A,178,E
+roller-master,2021-01-04 06:42:39+01:00,236,E,2628,A,152,E
+roller-master,2021-01-04 06:46:16+01:00,236,E,2628,A,152,E
+roller-master,2021-01-06 08:09:44+01:00,230,E,2709,A,140,E
+roller-master,2021-05-08 07:30:58+02:00,235,E,4069,A,175,E
+roller-master,2021-05-08 08:05:13+02:00,235,E,4069,A,175,E
+roller-master,2021-05-18 12:20:44+02:00,235,E,4069,A,175,E

@@ -1,0 +1,27 @@
+[tool.poetry]
+name = "sq_effect_study"
+version = "0.1.0"
+description = ""
+authors = ["HelgeCPH <ropf@itu.dk>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+requests = "^2.25.1"
+pandas = "^1.2.4"
+bs4 = "^0.0.1"
+selenium = "^3.141.0"
+html5lib = "^1.1"
+matplotlib = "^3.4.2"
+scipy = { version = "^1.6.3", python = ">=3.9,<3.10" }
+PyDriller = "^2.0"
+jupyter = "^1.0.0"
+ipykernel = "^5.5.5"
+tabulate = "^0.8.9"
+
+
+[tool.poetry.dev-dependencies]
+ipython = "^7.23.1"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

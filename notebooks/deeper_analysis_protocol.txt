@@ -1,0 +1,77 @@
+
+https://github.com/apache/ratis/commit/43a042a8bbe123bcb5e567af0aeced12eb299290
+
+Exception catch add `Thread.currentThread().interrupt();`
+111111111111111111111111111111111111111
+Exception catch change `Throwable` to `Exception`
+1111111111111111111111111111111111111111
+String interpolation instead of concatenation
+11
+
+
+
+https://github.com/apache/ratis/commit/02caace296f4414de3eda9f4469dbd806ca594b1
+
+
+XML Parsers should not be vulnerable to XXE attacks
+Also explicitly disable external DTD/schema
+
+3 to 9, I do not know how SC counts it precisely
+
+
+
+https://github.com/apache/ratis/commit/cf9ed0864615e82083f6be5f4f958563dbf242ad
+
+Use try-resource-block
+1
+
+
+https://github.com/apache/ratis/commit/0d964950e8fdf6887e53e8eb53695a14d29314c9
+
+`toString()` method call in assertion
+1
+
+
+
+https://github.com/apache/ratis/commit/6dd51454994a843fde10933d2ec3daedd6fb36de
+
+Math operands should be cast before assignment
+11111
+
+
+
+https://github.com/apache/ratis/commit/61f038b6bea2934e910e8504df0d8c79d6d34799
+
+Switch cases should end with an unconditional "break" statement
+11
+
+
+https://github.com/apache/ratis/commit/9b1d2c18f5677f3d443344e69f98e6c3ac953835
+
+perhaps 1 for the exception type and another 1 for the try statement? I am not sure about these and I do not see the close() call that should be introduced.
+
+
+https://github.com/apache/ratis/commit/9577d564eeac36cf449843d34b7010b33d634818
+
+2 - 3 for IOUtil handling, but I do not know how precisely SC counts it
+
+
+https://github.com/apache/ratis/commit/ff8aa668f1a0569ba5e6b0f30dbd51a673913344
+
+1 for logging message in default branch
+
+
+
+removal of NPE supressing `@SuppressFBWarnings("NP_NULL_ON_SOME_PATH")`
+11
+
+adding of `throws` declarations to methods
+1111
+
+
+
+https://github.com/apache/ratis/commit/040bc52e19a5e36f5710ccd4fc1981e862e691e8
+
+
+Add null check
+1

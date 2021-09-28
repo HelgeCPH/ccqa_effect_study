@@ -1,0 +1,19 @@
+project,date,no_bugs,bugs_rating,no_code_smells,code_smells_rating,no_vulnerabilities,vulnerabilities_rating
+apache_karaf,2020-10-05 16:20:05+02:00,247,E,6249,A,38,E
+apache_karaf,2020-10-05 20:09:02+02:00,247,E,6250,A,38,E
+apache_karaf,2020-10-09 10:09:06+02:00,247,E,6259,A,30,E
+apache_karaf,2020-10-12 15:46:59+02:00,247,E,6245,A,30,E
+apache_karaf,2020-10-15 06:35:17+02:00,247,E,6245,A,30,E
+apache_karaf,2020-10-26 10:08:00+01:00,246,E,6255,A,28,E
+apache_karaf,2020-10-26 12:42:07+01:00,246,E,6255,A,28,E
+apache_karaf,2020-11-08 07:28:00+01:00,246,E,6256,A,30,E
+apache_karaf,2020-12-15 19:51:54+01:00,248,E,6197,A,27,E
+apache_karaf,2021-01-14 17:58:49+01:00,248,E,6209,A,27,E
+apache_karaf,2021-02-11 19:10:18+01:00,247,E,6207,A,30,E
+apache_karaf,2021-02-21 19:21:17+01:00,247,E,6207,A,28,E
+apache_karaf,2021-02-25 08:56:19+01:00,247,E,6207,A,30,E
+apache_karaf,2021-03-06 08:20:01+01:00,248,E,6221,A,30,E
+apache_karaf,2021-03-08 20:34:15+01:00,248,E,6232,A,30,E
+apache_karaf,2021-03-15 21:58:03+01:00,248,E,6232,A,30,E
+apache_karaf,2021-03-23 13:22:54+01:00,270,E,6240,A,30,E
+apache_karaf,2021-03-23 13:52:19+01:00,270,E,6243,A,30,E

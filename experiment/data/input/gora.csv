@@ -1,0 +1,6 @@
+project,date,no_bugs,bugs_rating,no_code_smells,code_smells_rating,no_vulnerabilities,vulnerabilities_rating
+apache_gora,2021-04-19 23:14:02+02:00,75,E,1787,A,5,E
+apache_gora,2021-05-07 23:32:21+02:00,75,E,1787,A,5,E
+apache_gora,2021-06-06 01:11:18+02:00,75,E,1787,A,5,E
+apache_gora,2021-06-06 18:18:30+02:00,75,E,1788,A,5,E
+apache_gora,2021-06-06 20:10:28+02:00,75,E,1788,A,5,E

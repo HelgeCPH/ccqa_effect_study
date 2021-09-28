@@ -1,0 +1,19 @@
+project,date,no_bugs,bugs_rating,no_code_smells,code_smells_rating,no_vulnerabilities,vulnerabilities_rating
+apache-ratis,2020-05-28 12:30:20+02:00,98,E,1094,A,7,E
+apache-ratis,2020-06-23 21:45:33+02:00,97,E,1100,A,7,E
+apache-ratis,2020-07-08 08:34:21+02:00,98,E,1106,A,7,E
+apache-ratis,2020-07-21 11:33:08+02:00,90,E,958,A,7,E
+apache-ratis,2020-08-31 20:43:15+02:00,92,E,999,A,9,E
+apache-ratis,2020-09-28 13:37:44+02:00,79,E,964,A,9,E
+apache-ratis,2020-10-09 23:33:41+02:00,79,E,961,A,8,E
+apache-ratis,2020-11-27 17:06:17+01:00,51,E,907,A,8,E
+apache-ratis,2020-12-16 14:34:34+01:00,52,E,866,A,6,E
+apache-ratis,2021-01-18 07:21:58+01:00,52,E,885,A,6,E
+apache-ratis,2021-02-17 08:21:55+01:00,52,E,887,A,6,E
+apache-ratis,2021-02-19 08:15:55+01:00,52,E,887,A,6,E
+apache-ratis,2021-02-25 01:46:59+01:00,52,E,875,A,5,E
+apache-ratis,2021-03-30 17:59:04+02:00,64,E,875,A,5,E
+apache-ratis,2021-04-19 12:35:58+02:00,67,E,885,A,5,E
+apache-ratis,2021-05-05 13:33:06+02:00,64,E,883,A,5,E
+apache-ratis,2021-05-14 04:05:09+02:00,61,E,882,A,5,E
+apache-ratis,2021-06-10 08:40:57+02:00,61,E,885,A,5,E

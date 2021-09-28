@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+.vscode/
+geckodriver.log
+__pycache__

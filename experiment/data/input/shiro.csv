@@ -1,0 +1,4 @@
+project,date,no_bugs,bugs_rating,no_code_smells,code_smells_rating,no_vulnerabilities,vulnerabilities_rating
+apache_shiro,2020-10-17 18:25:52+02:00,114,E,1844,A,7,E
+apache_shiro,2020-11-16 16:12:15+01:00,114,E,1843,A,7,E
+apache_shiro,2021-01-13 08:20:41+01:00,114,E,1546,A,7,E
